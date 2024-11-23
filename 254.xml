@@ -1,0 +1,135 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="00:15.000" breakType="linear" breakId="preroll">
+<vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=515&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="midroll-0">
+<vmap:AdSource id="midroll-ad-0" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:10:00.000" breakType="linear" breakId="midroll-1">
+<vmap:AdSource id="midroll-ad-1" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:15:00.000" breakType="linear" breakId="midroll-2">
+<vmap:AdSource id="midroll-ad-2" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:20:00.000" breakType="linear" breakId="midroll-3">
+<vmap:AdSource id="midroll-ad-3" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:25:00.000" breakType="linear" breakId="midroll-4">
+<vmap:AdSource id="midroll-ad-4" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:30:00.000" breakType="linear" breakId="midroll-5">
+<vmap:AdSource id="midroll-ad-5" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:35:00.000" breakType="linear" breakId="midroll-6">
+<vmap:AdSource id="midroll-ad-6" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:40:00.000" breakType="linear" breakId="midroll-7">
+<vmap:AdSource id="midroll-ad-7" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:45:00.000" breakType="linear" breakId="midroll-8">
+<vmap:AdSource id="midroll-ad-8" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:50:00.000" breakType="linear" breakId="midroll-9">
+<vmap:AdSource id="midroll-ad-9" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:55:00.000" breakType="linear" breakId="midroll-10">
+<vmap:AdSource id="midroll-ad-10" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:00.000:00.000" breakType="linear" breakId="midroll-11">
+<vmap:AdSource id="midroll-ad-11" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:05:00.000" breakType="linear" breakId="midroll-12">
+<vmap:AdSource id="midroll-ad-12" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:10:00.000" breakType="linear" breakId="midroll-13">
+<vmap:AdSource id="midroll-ad-13" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:15:00.000" breakType="linear" breakId="midroll-14">
+<vmap:AdSource id="midroll-ad-14" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:20:00.000" breakType="linear" breakId="midroll-15">
+<vmap:AdSource id="midroll-ad-15" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:25:00.000" breakType="linear" breakId="midroll-16">
+<vmap:AdSource id="midroll-ad-16" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=516&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
+<vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://ads.deepto.tv/fc.php?script=rmVideo&zoneid=517&type=postroll&format=vast3 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+</vmap:VMAP>
